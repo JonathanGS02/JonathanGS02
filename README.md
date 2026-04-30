@@ -49,8 +49,8 @@ Desenvolvedor FullStack .NET com forte foco em arquitetura de software e entrega
 ---
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn**: [Seu LinkedIn Aqui](https://www.linkedin.com/in/seu-perfil)
-- **E-mail**: [jonathan.seuemail@email.com](mailto:seu-email@email.com)
+- **LinkedIn**: https://www.linkedin.com/in/jonathan-guerreiro-593144215/.
+- **E-mail**: jonathangs02@hotmail.com
 
 <div align="center">
   <sub>Feito com ❤️ por Jonathan GS</sub>
