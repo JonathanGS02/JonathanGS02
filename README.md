@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JonathanGS02/JonathanGS02/main/banner.png" width="100%" alt="Banner Jonathan" />
-  
   # Olá, eu sou o Jonathan! 👋
   ### FullStack .NET Developer | Angular | SQL Server
 </div>
